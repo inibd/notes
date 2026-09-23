@@ -39,3 +39,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 
+nav:
+  - 首页: index.md
+  - Linux:
+      - Zsh: linux/zsh.md
